@@ -17,3 +17,15 @@ Import the `solution` function from `index.js` and call `solution(input)`:
     const { solution } = require('./index.js');
     console.log(solution([8, 8, 5, 7, 9, 8, 7, 4, 8]));
 
+## Run the tests
+
+Need NodeJS v8.4.0 (or above).
+
+Install dependencies:
+
+    npm install
+
+Run tests
+
+    npm run jest
+
